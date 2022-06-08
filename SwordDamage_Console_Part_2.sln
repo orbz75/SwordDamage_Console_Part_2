@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDamage_Console_Part_2", "SwordDamage_Console_Part_2.csproj", "{BA0CEE64-A1DD-43D9-997B-F01F2B79E886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0CEE64-A1DD-43D9-997B-F01F2B79E886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0CEE64-A1DD-43D9-997B-F01F2B79E886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0CEE64-A1DD-43D9-997B-F01F2B79E886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0CEE64-A1DD-43D9-997B-F01F2B79E886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46C1FFA5-D5A6-44A7-9121-29D64AB6E70B}
+	EndGlobalSection
+EndGlobal
